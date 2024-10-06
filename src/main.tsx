@@ -2,6 +2,6 @@ import 'bootstrap/dist/css/bootstrap.min.css'
 import 'bootstrap/dist/js/bootstrap.bundle.min.js'
 import { render } from 'preact'
 
-import { App } from './app'
+import { App } from './app1'
 
 render(<App />, document.getElementById('app')!)
