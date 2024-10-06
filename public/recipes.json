@@ -1,7 +1,7 @@
 [
   {
-    "imageURL": "/recipes-images/triangles/images/index.jpg",
-    "pagePathname": "/recipes/",
+    "imageURL": "/recipes-images/triangles/index.jpg",
+    "pagePathname": "/recipes/triangles",
     "name": "Өчпочмаки",
     "timings": [
       "40 минут готовки",
@@ -25,7 +25,8 @@
     }
   },
   {
-    "imageURL": "/recipes-images/meat-soup/images/index.jpg",
+    "imageURL": "/recipes-images/meat-soup/index.jpg",
+    "pagePathname": "/recipes/meat-soup",
     "name": "Суп с фрикадельками / Лапша",
     "timings": [
       "50 минут готовки"
@@ -45,7 +46,8 @@
     }
   },
   {
-    "imageURL": "/recipes-images/borsch/images/index.jpg",
+    "imageURL": "/recipes-images/borsch/index.jpg",
+    "pagePathname": "/recipes/borsch",
     "name": "Борщ",
     "timings": [
       "60 минут варки мяса",
@@ -69,7 +71,8 @@
     }
   },
   {
-    "imageURL": "/recipes-images/french-potato/images/index.jpg",
+    "imageURL": "/recipes-images/french-potato/index.jpg",
+    "pagePathname": "/recipes/french-potato",
     "name": "Картошка по французски",
     "timings": [
       "60 минут готовки",
@@ -87,7 +90,8 @@
     }
   },
   {
-    "imageURL": "/recipes-images/pizza-pepperoni/images/index.jpg",
+    "imageURL": "/recipes-images/pizza-pepperoni/index.jpg",
+    "pagePathname": null,
     "name": "Пицца Пепперони",
     "timings": [
       "15 - 20 минут готовки",
@@ -107,7 +111,8 @@
     }
   },
   {
-    "imageURL": "/recipes-images/potato-with-meat/images/index.jpg",
+    "imageURL": "/recipes-images/potato-with-meat/index.jpg",
+    "pagePathname": "/recipes/potato-with-meat",
     "name": "Тушеная картошка с мясом",
     "timings": [
       "45 минут готовки",
@@ -125,7 +130,8 @@
     }
   },
   {
-    "imageURL": "/recipes-images/pancakes/images/index.jpg",
+    "imageURL": "/recipes-images/pancakes/index.jpg",
+    "pagePathname": "/recipes/pancakes",
     "name": "Панкейки",
     "timings": [
       "? минут готовки"
