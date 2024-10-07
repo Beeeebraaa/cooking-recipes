@@ -7,13 +7,15 @@ import { routes } from '../constants/routes'
 import { Home } from '../pages/Home'
 import { NotFound } from '../pages/NotFound'
 import './App.css'
+import { createHashHistory } from 'history';
 
 export const App = () => {
   return (
     <>
       <Header />
       <ErrorBoundary>
-        <Router>
+        {/* @ts-ignore */}
+        <Router history={createHashHistory()}>
           <NotFound default />
           <Home path={routes.home} />
           <AsyncRoute
