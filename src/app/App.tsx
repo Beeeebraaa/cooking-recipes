@@ -42,6 +42,14 @@ export const App = () => {
             path={routes.triangles}
             getComponent={() => import('../pages/Triangles').then(module => module.Triangles)}
           />
+          <AsyncRoute
+            path={routes.fishSoup}
+            getComponent={() => import('../pages/FishSoup').then(module => module.FishSoup)}
+          />
+          <AsyncRoute
+            path={routes.fishSteaks}
+            getComponent={() => import('../pages/FishSteaks').then(module => module.FishSteaks)}
+          />
         </Router>
       </ErrorBoundary>
     </>
