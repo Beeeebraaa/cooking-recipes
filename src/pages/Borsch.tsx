@@ -16,7 +16,7 @@ export const Borsch: FC<RoutableProps> = () => {
       <div class="d-flex flex-column gap-2 mt-5 mb-2">
         <img
           class="w-100 h-100 max-width-300 max-height-300 object-fit-cover rounded-3"
-          src="/recipes-images/borsch/1.jpg"
+          src="./recipes-images/borsch/1.jpg"
           alt=""
         />
         <p class="bg-warning bg-opacity-75">
@@ -28,7 +28,7 @@ export const Borsch: FC<RoutableProps> = () => {
       <div class="d-flex flex-column gap-2 mt-5 mb-2">
         <img
           class="w-100 h-100 max-width-300 max-height-400 object-fit-cover rounded-3"
-          src="/recipes-images/borsch/2.jpg"
+          src="./recipes-images/borsch/2.jpg"
           alt=""
         />
         <p class="bg-warning bg-opacity-75">
@@ -41,7 +41,7 @@ export const Borsch: FC<RoutableProps> = () => {
       <div class="d-flex flex-column gap-2 mt-5 mb-2">
         <img
           class="w-100 h-100 max-width-300 max-height-300 object-fit-cover rounded-3"
-          src="/recipes-images/borsch/3.jpg"
+          src="./recipes-images/borsch/3.jpg"
           alt=""
         />
         <p class="bg-warning bg-opacity-75">Чистим и моем большую свеклу.</p>
@@ -50,7 +50,7 @@ export const Borsch: FC<RoutableProps> = () => {
       <div class="d-flex flex-column gap-2 mt-5 mb-2">
         <img
           class="w-100 h-100 max-width-300 max-height-300 object-fit-cover rounded-3"
-          src="/recipes-images/borsch/4.jpg"
+          src="./recipes-images/borsch/4.jpg"
           alt=""
         />
         <p class="bg-warning bg-opacity-75">
@@ -69,7 +69,7 @@ export const Borsch: FC<RoutableProps> = () => {
       <div class="d-flex flex-column gap-2 mt-5 mb-2">
         <img
           class="w-100 h-100 max-width-300 max-height-300 object-fit-cover rounded-3"
-          src="/recipes-images/borsch/5.jpg"
+          src="./recipes-images/borsch/5.jpg"
           alt=""
         />
         <p class="bg-warning bg-opacity-75">Разрезаем попку на мелкие части.</p>
@@ -78,7 +78,7 @@ export const Borsch: FC<RoutableProps> = () => {
       <div class="d-flex flex-column gap-2 mt-5 mb-2">
         <img
           class="w-100 h-100 max-width-300 max-height-300 object-fit-cover rounded-3"
-          src="/recipes-images/borsch/6.jpg"
+          src="./recipes-images/borsch/6.jpg"
           alt=""
         />
         <p class="bg-warning bg-opacity-75">
@@ -89,7 +89,7 @@ export const Borsch: FC<RoutableProps> = () => {
       <div class="d-flex flex-column gap-2 mt-5 mb-2">
         <img
           class="w-100 h-100 max-width-300 max-height-300 object-fit-cover rounded-3"
-          src="/recipes-images/borsch/7.jpg"
+          src="./recipes-images/borsch/7.jpg"
           alt=""
         />
         <p class="bg-warning bg-opacity-75">Чистим морковь.</p>
@@ -98,7 +98,7 @@ export const Borsch: FC<RoutableProps> = () => {
       <div class="d-flex flex-column gap-2 mt-5 mb-2">
         <img
           class="w-100 h-100 max-width-300 max-height-300 object-fit-cover rounded-3"
-          src="/recipes-images/borsch/8.jpg"
+          src="./recipes-images/borsch/8.jpg"
           alt=""
         />
         <p class="bg-warning bg-opacity-75">Натираем морковь и нарезаем лук.</p>
@@ -107,7 +107,7 @@ export const Borsch: FC<RoutableProps> = () => {
       <div class="d-flex flex-column gap-2 mt-5 mb-2">
         <img
           class="w-100 h-100 max-width-300 max-height-300 object-fit-cover rounded-3"
-          src="/recipes-images/borsch/9.jpg"
+          src="./recipes-images/borsch/9.jpg"
           alt=""
         />
         <p class="bg-warning bg-opacity-75">
@@ -118,7 +118,7 @@ export const Borsch: FC<RoutableProps> = () => {
       <div class="d-flex flex-column gap-2 mt-5 mb-2">
         <img
           class="w-100 h-100 max-width-300 max-height-300 object-fit-cover rounded-3"
-          src="/recipes-images/borsch/10.jpg"
+          src="./recipes-images/borsch/10.jpg"
           alt=""
         />
         <p class="bg-warning bg-opacity-75">
@@ -130,7 +130,7 @@ export const Borsch: FC<RoutableProps> = () => {
       <div class="d-flex flex-column gap-2 mt-5 mb-2">
         <img
           class="w-100 h-100 max-width-300 max-height-500 object-fit-cover rounded-3"
-          src="/recipes-images/borsch/11.jpg"
+          src="./recipes-images/borsch/11.jpg"
           alt=""
         />
         <p class="bg-warning bg-opacity-75">
@@ -141,7 +141,7 @@ export const Borsch: FC<RoutableProps> = () => {
       <div class="d-flex flex-column gap-2 mt-5 mb-2">
         <img
           class="w-100 h-100 max-width-300 max-height-300 object-fit-cover rounded-3"
-          src="/recipes-images/borsch/14.jpg"
+          src="./recipes-images/borsch/14.jpg"
           alt=""
         />
         <p class="bg-warning bg-opacity-75">
@@ -152,7 +152,7 @@ export const Borsch: FC<RoutableProps> = () => {
       <div class="d-flex flex-column gap-2 mt-5 mb-2">
         <img
           class="w-100 h-100 max-width-300 max-height-300 object-fit-cover rounded-3"
-          src="/recipes-images/borsch/12.jpg"
+          src="./recipes-images/borsch/12.jpg"
           alt=""
         />
         <p class="bg-warning bg-opacity-75">
@@ -170,7 +170,7 @@ export const Borsch: FC<RoutableProps> = () => {
       <div class="d-flex flex-column gap-2 mt-5 mb-2">
         <img
           class="w-100 h-100 max-width-300 max-height-300 object-fit-cover rounded-3"
-          src="/recipes-images/borsch/13.jpg"
+          src="./recipes-images/borsch/13.jpg"
           alt=""
         />
         <p class="bg-warning bg-opacity-75">

@@ -1,6 +1,6 @@
 [
   {
-    "imageURL": "/recipes-images/triangles/index.jpg",
+    "imageURL": "./recipes-images/triangles/index.jpg",
     "pagePathname": "/triangles",
     "name": "Өчпочмаки",
     "timings": [
@@ -25,7 +25,7 @@
     }
   },
   {
-    "imageURL": "/recipes-images/meat-soup/index.jpg",
+    "imageURL": "./recipes-images/meat-soup/index.jpg",
     "pagePathname": "/meat-soup",
     "name": "Суп с фрикадельками / Лапша",
     "timings": [
@@ -46,7 +46,7 @@
     }
   },
   {
-    "imageURL": "/recipes-images/borsch/index.jpg",
+    "imageURL": "./recipes-images/borsch/index.jpg",
     "pagePathname": "/borsch",
     "name": "Борщ",
     "timings": [
@@ -71,7 +71,7 @@
     }
   },
   {
-    "imageURL": "/recipes-images/french-potato/index.jpg",
+    "imageURL": "./recipes-images/french-potato/index.jpg",
     "pagePathname": "/french-potato",
     "name": "Картошка по французски",
     "timings": [
@@ -90,7 +90,7 @@
     }
   },
   {
-    "imageURL": "/recipes-images/pizza-pepperoni/index.jpg",
+    "imageURL": "./recipes-images/pizza-pepperoni/index.jpg",
     "pagePathname": null,
     "name": "Пицца Пепперони",
     "timings": [
@@ -111,7 +111,7 @@
     }
   },
   {
-    "imageURL": "/recipes-images/potato-with-meat/index.jpg",
+    "imageURL": "./recipes-images/potato-with-meat/index.jpg",
     "pagePathname": "/potato-with-meat",
     "name": "Тушеная картошка с мясом",
     "timings": [
@@ -130,7 +130,7 @@
     }
   },
   {
-    "imageURL": "/recipes-images/pancakes/index.jpg",
+    "imageURL": "./recipes-images/pancakes/index.jpg",
     "pagePathname": "/pancakes",
     "name": "Панкейки",
     "timings": [
