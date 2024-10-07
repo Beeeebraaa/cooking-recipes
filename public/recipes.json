@@ -1,7 +1,7 @@
 [
   {
     "imageURL": "/recipes-images/triangles/index.jpg",
-    "pagePathname": "/recipes/triangles",
+    "pagePathname": "/triangles",
     "name": "Өчпочмаки",
     "timings": [
       "40 минут готовки",
@@ -26,7 +26,7 @@
   },
   {
     "imageURL": "/recipes-images/meat-soup/index.jpg",
-    "pagePathname": "/recipes/meat-soup",
+    "pagePathname": "/meat-soup",
     "name": "Суп с фрикадельками / Лапша",
     "timings": [
       "50 минут готовки"
@@ -47,7 +47,7 @@
   },
   {
     "imageURL": "/recipes-images/borsch/index.jpg",
-    "pagePathname": "/recipes/borsch",
+    "pagePathname": "/borsch",
     "name": "Борщ",
     "timings": [
       "60 минут варки мяса",
@@ -72,7 +72,7 @@
   },
   {
     "imageURL": "/recipes-images/french-potato/index.jpg",
-    "pagePathname": "/recipes/french-potato",
+    "pagePathname": "/french-potato",
     "name": "Картошка по французски",
     "timings": [
       "60 минут готовки",
@@ -112,7 +112,7 @@
   },
   {
     "imageURL": "/recipes-images/potato-with-meat/index.jpg",
-    "pagePathname": "/recipes/potato-with-meat",
+    "pagePathname": "/potato-with-meat",
     "name": "Тушеная картошка с мясом",
     "timings": [
       "45 минут готовки",
@@ -131,7 +131,7 @@
   },
   {
     "imageURL": "/recipes-images/pancakes/index.jpg",
-    "pagePathname": "/recipes/pancakes",
+    "pagePathname": "/pancakes",
     "name": "Панкейки",
     "timings": [
       "? минут готовки"

@@ -1,10 +1,9 @@
 export const routes = {
-  "*": '/',
-  home: '/recipes',
-  triangles: '/recipes/triangles',
-  meatSoup: '/recipes/meat-soup',
-  borsch: '/recipes/borsch',
-  frenchPotato: '/recipes/french-potato',
-  potatoWithMeat: '/recipes/potato-with-meat',
-  pancakes: '/recipes/pancakes',
+  home: '/',
+  triangles: '/triangles',
+  meatSoup: '/meat-soup',
+  borsch: '/borsch',
+  frenchPotato: '/french-potato',
+  potatoWithMeat: '/potato-with-meat',
+  pancakes: '/pancakes',
 }
