@@ -47,8 +47,16 @@ export const App = () => {
             getComponent={() => import('../pages/FishSoup').then(module => module.FishSoup)}
           />
           <AsyncRoute
+            path={routes.chickenSoup}
+            getComponent={() => import('../pages/ChickenSoup').then(module => module.ChickenSoup)}
+          />
+          <AsyncRoute
             path={routes.fishSteaks}
             getComponent={() => import('../pages/FishSteaks').then(module => module.FishSteaks)}
+          />
+          <AsyncRoute
+            path={routes.cheeseCakes}
+            getComponent={() => import('../pages/CheeseCakes').then(module => module.CheeseCakes)}
           />
         </Router>
       </ErrorBoundary>

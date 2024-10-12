@@ -8,4 +8,6 @@ export const routes = {
   pancakes: '/pancakes',
   fishSoup: '/fish-soup',
   fishSteaks: '/fish-steaks',
+  chickenSoup: '/chicken-soup',
+  cheeseCakes: '/cheese-cakes',
 }
